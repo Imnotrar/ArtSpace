@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="artwork1">Lukisan 1 : good morning</string>
+    <string name="artwork2">Lukisan 2 : sunset n him</string>
+    <string name="artwork3">Lukisan 3 : midnight blue</string>
+    <string name="artist1">Rara Aliviana TRPL 3B</string>
+    <string name="artist2">Rara Aliviana TRPL 3B</string>
+    <string name="artist3">Rara Aliviana TRPL 3B</string>
+</resources>
